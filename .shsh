@@ -1,4 +1,7 @@
 #!/bin/bash
+# A script to generate index.md in every folder.
+
+# REV01: Wed Nov  4 21:08:56 WIB 2020
 # START: Wed Nov  4 20:41:19 WIB 2020
 
 # Copyright (C) 2020-2020 Rahmat M. Samik-Ibrahim http://RahmatM.Samik-Ibrahim.vLSM.org/
