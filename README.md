@@ -1,2 +1,1 @@
-# webTemplate
-A web Template
+index.md
